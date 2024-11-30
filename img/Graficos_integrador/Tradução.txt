@@ -1,0 +1,13 @@
+id.resp_p: Porta de destino.
+flow_pkts_payload.avg: Média do payload por pacote.
+flow_iat.min: Menor intervalo entre pacotes.
+fwd_pkts_payload.min: Menor payload dos pacotes enviados.
+bwd_subflow_bytes: Bytes no subfluxo reverso.
+fwd_data_pkts_tot: Total de pacotes enviados.
+id.orig_p: Porta de origem.
+flow_pkts_payload.min: Menor payload no fluxo.
+active.min: Menor tempo ativo do fluxo.
+flow_pkts_payload.max: Maior payload no fluxo.
+service: Tipo de serviço no fluxo.
+proto: Protocolo de comunicação.
+Attack_type: Tipo de ataque (saída de dados).

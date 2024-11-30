@@ -45,6 +45,8 @@ input{
     width: 200px;
     color: white;
     font-size: 18px;
+    font-family: "Poiret One", sans-serif;
+    padding: 3px;
 }
 
 button{
@@ -58,6 +60,8 @@ button{
     border: none;
     outline: none;
     transition: all ease-in-out 0.1s;
+    font-family: "Poiret One", sans-serif;
+    font-weight: bolder;
 
 }
 button:hover{
